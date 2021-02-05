@@ -1,0 +1,5 @@
+org\apache\jedis\sampler\JedisSampler.class
+org\apache\jedis\utils\RedisExecPool.class
+org\apache\jedis\config\JedisElementBeanInfo.class
+org\apache\jedis\config\JedisElement.class
+org\apache\jedis\sampler\JedisSamplerBeanInfo.class
